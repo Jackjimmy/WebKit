@@ -251,6 +251,7 @@ TestWebKitAPI.AudioStreamDescriptionCocoa/EachSampleTypeTest/0
 TestWebKitAPI.AudioStreamDescriptionCocoa/EachSampleTypeTest/1
 TestWebKitAPI.AudioStreamDescriptionCocoa/EachSampleTypeTest/2
 TestWebKitAPI.AudioStreamDescriptionCocoa/EachSampleTypeTest/3
+TestWebKitAPI.AudioUnderrunDeclicker
 TestWebKitAPI.AutocorrectionTests
 TestWebKitAPI.BifurcatedGraphicsContextTests
 TestWebKitAPI.CARingBufferTest
